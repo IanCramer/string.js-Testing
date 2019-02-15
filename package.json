@@ -1,0 +1,14 @@
+{
+  "name": "string.js-testing",
+  "version": "1.0.0",
+  "description": "Testing for functions in string.js",
+  "main": "string.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "author": "Ian Cramer",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.1.0"
+  }
+}
