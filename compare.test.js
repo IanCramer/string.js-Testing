@@ -5,6 +5,6 @@ describe('compare Function', () =>
 {
 	test('no arguments', () =>
 	{
-		expect(compare()).toBe(undefined);
+		expect(compare()).toBe(0);
 	});
 });

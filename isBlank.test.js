@@ -5,6 +5,6 @@ describe('isBlank Function', () =>
 {
 	test('no arguments', () =>
 	{
-		expect(isBlank()).toBe(undefined);
+		expect(isBlank()).toBe(true);
 	});
 });

@@ -5,6 +5,6 @@ describe('ellipse Function', () =>
 {
 	test('no arguments', () =>
 	{
-		expect(ellipse()).toBe(undefined);
+		expect(ellipse()).toBe('');
 	});
 });
